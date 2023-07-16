@@ -13,4 +13,4 @@ E-course Adalah Platform Website Untuk Menampilkan, Menambah, Mengedit, dan Meng
 ## Screenshots
 
 ### Dashboard
-![Homepage](assets/screenshot/dashboard.jpg)
+![Homepage](assets/screenshot/dashborad.jpg)
